@@ -1,0 +1,11 @@
+ipykernel
+matplotlib
+missingno
+nltk
+numpy
+pandas
+requests
+scipy
+seaborn
+scikit-learn
+streamlit
